@@ -1,4 +1,4 @@
-## Next.js Dashboard
+# Next.js Dashboard
 
 Next.js dashboard project where I learnt about the main features of Next.js and best practices for building web applications.
 
